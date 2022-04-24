@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sunwoong3/EATO.git"
+    "url": "git+https://github.com/Jaekomplett/EATO.git"
   },
   "author": "KLJ",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sunwoong3/EATO/issues"
+    "url": "https://github.com/Jaekomplett/EATO/issues"
   },
-  "homepage": "https://github.com/sunwoong3/EATO#readme",
+  "homepage": "https://github.com/Jaekomplett/EATO",
   "dependencies": {
     "axios": "^0.25.0",
     "bcrypt": "^5.0.1",
