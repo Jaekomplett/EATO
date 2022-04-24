@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/ubuntu/EATO/server
+cd /home/jae/Desktop/Projects/EATO/server
 npm install
 npm install pm2@latest -g
 sudo apt-get update
