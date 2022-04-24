@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "KLJ Final Project",
   "main": "app.js",
-  "engines": {
-    "node": "16.14.2",
-  }
   "scripts": {
     "start": "nodemon --experimental-modules --es-module-specifier-resolution=node app.js"
   },
